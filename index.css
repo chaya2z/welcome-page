@@ -44,6 +44,22 @@ main {
     text-align: center;
 }
 
+.bio {
+    width: 500px;
+    height: 200px;
+    background: orange;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+img.icon {
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    border-radius: 50%;
+}
+
 .text_contents {
     width: 200px;
     height: 40px;
