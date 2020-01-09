@@ -94,3 +94,6 @@ footer {
     color: #FFFFFF;
     background: grey;
 }
+footer p small {
+    margin: 40px ;
+}
