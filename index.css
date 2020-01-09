@@ -45,19 +45,17 @@ main {
 }
 
 .bio {
-    width: 500px;
+    width: 680px;
     height: 200px;
     background: orange;
-    padding-left: 10px;
-    padding-right: 10px;
-    display: inline-block;
 }
 
 img.icon {
     width: 200px;
     height: 200px;
-    text-align: left;
+    text-align: right;
     border-radius: 50%;
+    float: right;
 }
 
 .text_contents {
@@ -68,6 +66,24 @@ img.icon {
     text-align: center;
 }
 
+.contents {
+    width: 720px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+    width: 220px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 240px;
+    text-align: center;
+}
+.contact p {
+    height: 20px;
+    margin: 0px 0px;
+}
 footer {
     position: absolute;
     width: 100%;
