@@ -1,0 +1,15 @@
+html {
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+}
+body {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #cfcfcf;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+}
