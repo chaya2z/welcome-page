@@ -18,8 +18,11 @@ jobs:
         with:
           node-version: '14'
 
-      - name: CI
+      - name: ci
         run: npm ci
 
-      - name: TEST
-        run: npm test
+      - name: format
+        run: npm run fomat
+
+      - name: lint
+        run: npm run lint
