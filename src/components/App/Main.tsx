@@ -8,6 +8,7 @@ export const Main: React.FC = () => {
                 <div>
                     <ContentName>Name</ContentName>
                     <p>Nakano Taisuke</p>
+                    <p>Handle Name: chaya2z</p>
                 </div>
                 <div>
                     <ContentName>職業</ContentName>
