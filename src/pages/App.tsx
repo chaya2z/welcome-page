@@ -1,5 +1,10 @@
 import React from "react";
+import { Header } from "../components/App/Header";
 
 export const App: React.FC = () => {
-    return <div>chaya2z.github.io</div>;
+    return (
+        <div>
+            <Header />
+        </div>
+    );
 };
