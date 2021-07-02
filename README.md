@@ -17,7 +17,7 @@ prettier --write src
 eslint src
 ```
 
-## Deploy
+## Deployment
 
 When push master branch, build and deploy to GitHub Pages
 
